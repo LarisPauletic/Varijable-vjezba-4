@@ -1,0 +1,7 @@
+C:\Users\Laris\source\repos\Varijable vježba 4\Varijable vježba 4\bin\Debug\Varijable vježba 4.exe.config
+C:\Users\Laris\source\repos\Varijable vježba 4\Varijable vježba 4\bin\Debug\Varijable vježba 4.exe
+C:\Users\Laris\source\repos\Varijable vježba 4\Varijable vježba 4\bin\Debug\Varijable vježba 4.pdb
+C:\Users\Laris\source\repos\Varijable vježba 4\Varijable vježba 4\obj\Debug\Varijable vježba 4.csprojAssemblyReference.cache
+C:\Users\Laris\source\repos\Varijable vježba 4\Varijable vježba 4\obj\Debug\Varijable vježba 4.csproj.CoreCompileInputs.cache
+C:\Users\Laris\source\repos\Varijable vježba 4\Varijable vježba 4\obj\Debug\Varijable vježba 4.exe
+C:\Users\Laris\source\repos\Varijable vježba 4\Varijable vježba 4\obj\Debug\Varijable vježba 4.pdb
